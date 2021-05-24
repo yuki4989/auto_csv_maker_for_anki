@@ -1,4 +1,4 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# Name
 
 auto_csv_maker_for_anki
 
@@ -21,7 +21,8 @@ Python Libraries
  
 # Usage
  
-First, put your user name in 'your user name here', and put x-path of chromedriver in here chrome_path = ''.
+First, make sure done_words.csv is same folder with python files.
+Second, put your user name in 'your user name here', and put x-path of chromedriver in here chrome_path = ''.
 Then type your Kindle memo and hightlight ID and password onto login_id = '' and login_pass = ''.
 Finally, run the code. I call it a session.
 

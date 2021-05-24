@@ -2,7 +2,7 @@
 
 auto_csv_maker_for_anki
 
-This is a program that collects English word, which is hightlighted in kindle, and obtains meanings and phonetics automatically to csv file.
+This is a program that collects English word, which is hightlighted in kindle, and obtains meanings and phonetics of Japanese automatically to csv file.
 So that you can easily add them to Anki app.
 キンドルのハイライト（英語）を取得して、日本語の意味と音声記号をWeblioから取得するプログラムです。Ankiにアップロードしやすいようにcsv形式で出力されます。
 

@@ -21,7 +21,9 @@ Python Libraries
  
 # Usage
  There would be three csv file outputs. <br>
- One is named 'done_words.csv'. This is kind of a repository of vocabularies that were obtained in each sessions. From next session, a redundant word will be detected by refering to this file. <br>
+ One is named 'done_words.csv'. 
+ This is kind of a repository of vocabularies that were obtained in each sessions. 
+ From next session, a redundant word, which has already obtained before, will be detected and deleted by refering to this file. <br>
  The 'new_words.csv' is a temporary repository of new vocaburaries that were obtained in the session.<br>
  The 'new_words_anki.csv' is a csv file that will be imported to Anki app. <br>
  This will be rewritten after each session. So that I recommend to import this file to Anki after each session. 
